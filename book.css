@@ -1,0 +1,41 @@
+.book .row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-items: center;
+  }
+  
+  .book .row .image {
+    flex: 1 1 40rem;
+  }
+  
+  .book .row .image img {
+    width: 100%;
+  }
+  
+  .book .row form {
+    flex: 1 1 40rem;
+    padding: 2rem;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+  }
+  
+  .book .row form .inputBox {
+    padding: 0.5rem 0;
+  }
+  
+  .book .row form .inputBox input {
+    width: 100%;
+    padding: 1rem;
+    border: 0.1rem solid rgba(0, 0, 0, 0.1);
+    font-size: 1.7rem;
+    color: rgba(0, 0, 0, 0.904);
+    text-transform: none;
+  }
+  
+  .book .row form .inputBox h3 {
+    font-size: 2rem;
+    padding: 1rem 0;
+    color: #666;
+  }
+  /* booking ends */
