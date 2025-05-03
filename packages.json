@@ -1,0 +1,126 @@
+[
+    {
+        "name": "Golden Triangle Tour (Delhi - Agra - Jaipur)",
+        "page": "family.php",
+        "id": "golden-triangle",
+        "image": "https://sushanttravels.com/blog/2024/02/1707737479.jpg"
+    },
+    {
+        "name": "Rishikesh River Rafting & Camping",
+        "page": "adventure.php",
+        "id": "rishikesh-river",
+        "image": "https://static2.tripoto.com/media/filter/tst/img/1215002/TripDocument/1595435936_8_1595095394_screenshot_109.png"
+    },
+    {
+        "name": "Jim Corbett Wildlife Safari, Uttarakhand",
+        "page": "adventure.php",
+        "id": "jim-corbett",
+        "image": "https://www.shutterstock.com/image-photo/jim-corbett-national-park-uttarakhand-600nw-2426844295.jpg"
+    },
+    {
+        "name": "Paragliding in Bir Billing, Himachal Pradesh",
+        "page": "adventure.php",
+        "id": "Paragliding",
+        "image": "https://www.tourmyindia.com/blog//wp-content/uploads/2017/11/Best-time-to-visit-Bir-Biling.jpg"
+    },
+    {
+        "name": "Chadar Trek, Ladakh",
+        "page": "adventure.php",
+        "id": "Ladhak",
+        "image": "https://discoverlehladakh.in/wp-content/uploads/2025/01/Chadar-Trek-on-Zanskar-river-in-Leh-Ladakh.jpg"
+    },
+    {
+        "name": "Scuba Diving & Snorkeling in Goa",
+        "page": "adventure.php",
+        "id": "scuba-diving",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sftSq70cUevTZVjYAHub67l8K5shK8g-9A&s"
+
+    },
+    {
+        "name": "Caving and Rock Climbing in Meghalaya",
+        "page": "adventure.php",
+        "id": "Meghalya",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6sftSq70cUevTZVjYAHub67l8K5shK8g-9A&s"
+
+    },
+    {
+        "name": "Himalayan Adventure (Himachal Pradesh & Uttarakhand)",
+        "page": "honeymoon.php",
+        "id": "Himalayan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbiZA3rpWXYYxkeNaBB7PQG9h3yqrbDT6NsA&s"
+
+    },
+    {
+        "name": "Andaman Islands Beach Retreat",
+        "page": "honeymoon.php",
+        "id": "Andaman",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/55/63/96/our-beautiful-beach.jpg"
+
+    },
+    {
+        "name": "North-East Delight (Meghalaya & Sikkim)",
+        "page": "honeymoon.php",
+        "id": "Delight",
+        "image": "https://www.indiantempletour.com/wp-content/uploads/2022/08/north-east.jpg"
+
+    },
+    {
+        "name": "Kerala Backwaters & Hill Stations",
+        "page": "honeymoon.php",
+        "id": "Karela",
+        "image": "https://www.alappuzha.com/files/packages/3861300018.jpg"
+
+    },
+    {
+        "name": "Rajasthan Royal Summer Retreat",
+        "page": "honeymoon.php",
+        "id": "Rajasthan",
+        "image": "https://rajasthanyatra.in/blog/wp-content/uploads/2024/05/mount-abu-copy.webp"
+
+    },
+    {
+        "name": "Goa Summer Beach Holiday",
+        "page": "honeymoon.php",
+        "id": "Goa",
+        "image": "https://www.mannhitvacations.com/uploads/content/goa_(1).jpg"
+
+    },
+    {
+        "name": "Taj Mahal & Heritage Trail",
+        "page": "luxury.php",
+        "id": "Taj-mahal",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUN1dEquHJ9x49OPfgXS-rU0xvCY1XEsDfXA&s"
+
+    },
+    {
+        "name": "Luxury Wildlife Safari (Ranthambore & Jim Corbett)",
+        "page": "luxury.php",
+        "id": "Luxury",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_je53WuKxkBSrMyLolqEOk6alitBSb-mOgQ&s"
+
+    },
+    {
+        "name": "Mumbai & Bollywood Extravaganza",
+        "page": "luxury.php",
+        "id": "Mumbai",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsVmE1syfT6Y1FdU2zQS6U6HDzX5bp_K2vng&s"
+
+    },
+    
+    {
+        "name": "Darjeeling & Sikkim Elite Retreat",
+        "page": "luxury.php",
+        "id": "Darjeeling",
+        "image": "https://www.naturewings.com/images/sikkim-darjeeling/darjeeling-gangtok-tour.jpg"
+
+    },
+    {
+        "name": "Luxury Cruise on the Ganges",
+        "page": "luxury.php",
+        "id": "Cruise",
+        "image": "https://exoticheritagegroup.com/assets/img/GangesVoyagerII.jpg"
+
+    }
+
+
+]
